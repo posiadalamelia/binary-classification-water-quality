@@ -39,5 +39,5 @@ The dataset includes **10 key physicochemical features** used to determine water
 ## 🧑‍💻 Authors  
 - [Amelia Posiadała](https://github.com/posiadalamelia)
 - [Oliwia Strzelec](https://github.com/StrzelecO)
-- Szymon Mlonek
+- [Szymon Mlonek](https://github.com/symlnk)
 - Tomasz Niewiadomski
